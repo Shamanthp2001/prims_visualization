@@ -101,7 +101,7 @@ void bitmap_output(int x, int y, char *string, void *font)
 
 //this delays out execution of next instruction
 void delay(){
-int i=190000;
+int i=290000000;
 while(i--);
 }
 
